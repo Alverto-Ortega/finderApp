@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
+    "author": "Alverto Ortega",
     "type": "git",
     "url": "git+https://github.com/Alverto-Ortega/finderApp.git"
   },
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Alverto-Ortega/finderApp/issues"
   },
-  "homepage": "https://github.com/Alverto-Ortega/finderApp#readme"
+  "homepage": "https://github.com/Alverto-Ortega/finderApp#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {
+    "karma": "^6.4.3"
+  }
 }
