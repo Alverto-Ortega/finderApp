@@ -1,0 +1,19 @@
+{
+  "name": "finderapp",
+  "version": "1.0.0",
+  "description": "app that finds things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alverto-Ortega/finderApp.git"
+  },
+  "author": "Alverto Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alverto-Ortega/finderApp/issues"
+  },
+  "homepage": "https://github.com/Alverto-Ortega/finderApp#readme"
+}
